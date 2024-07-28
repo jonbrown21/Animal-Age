@@ -4,6 +4,8 @@ The goal of this application was to learn how to code on Swift for macOS and to 
 
 The app itself is located on the macOS App Store, again as a proof of concept and more or less as a portfolio piece. 
 
+https://itunes.apple.com/us/app/animal-age/id717666889?ls=1&mt=12
+
 The UI was designed in Photoshop and the App was originally coded in Objective-C and ported over to Swift. 
 
 To Do:
